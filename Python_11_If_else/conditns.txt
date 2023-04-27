@@ -1,0 +1,14 @@
+and condition: (both the conditions should be true)
+
+true  and  true = true
+true and false = false
+false and true = false
+false and false = false
+
+
+or condition : ( atleast one condition must be true)
+
+false or false = false
+true or false = true
+false or true = true
+true or true = true

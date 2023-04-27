@@ -1,0 +1,31 @@
+i=1
+ condition === true
+   print 1
+   i=1+1=2
+
+i=2
+  condition === true
+  print 2
+  i=2+1 =3
+
+i=3
+  print 3
+  i=3+1=4
+i=4
+  print 4
+  i=4+1=5
+i=5
+
+  conditn == true
+  print 5
+  i=5+1=6
+
+i=6
+
+   ............
+
+
+i=7
+
+since 7<=6 it is false and 
+break the loop

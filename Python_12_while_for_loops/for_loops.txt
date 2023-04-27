@@ -1,0 +1,28 @@
+x=  red 
+
+   y  == apple
+      red apple
+   y  == banana
+      red banana
+   y  == cherry
+      red cherry
+
+x = big 
+
+   y == apple
+   y=  banana
+   y = cherry
+
+x= tasty
+
+
+   y=apple
+   tasty apple
+
+   y= banana
+   tasty banana
+
+
+   y=cherry
+   tasty cherry
+

@@ -1,0 +1,27 @@
+in any coding language 
+
+1= true
+0= false
+
+bitwise and :      and 
+ 
+1 and 1 === 1     true and true  === true
+1 and 0 === 0     true and false === false
+0 and 1 === 0     false and true === false
+0 and 0 === 0     false and false == false
+
+bitwise or :      or
+
+0 or 0 === 0      false or false ==== false
+0 or 1 === 1      false or true  ==== true
+1 or 0 ==== 1     true or  false ==== true
+1 or 1 ===  1     true or true   ===  true
+
+
+
+bitwise xor  ^ :
+
+0 or 0 ===  0
+0 or 1 ===  1
+1 or 0 ===  1
+1 or 1 ===  0

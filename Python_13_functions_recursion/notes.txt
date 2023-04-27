@@ -1,0 +1,36 @@
+
+
+exaplanation for parameters :
+
+kids = [ "ramya", "ravi","sravya"]
+
+
+kids[0] = ?????
+
+
+kid = { fname : " ramya" , lname : "anumula"} 
+
+
+kid[lname] = anumula 
+
+
+FACTORIAL :
+
+3
+
+3*2*1  = 6 
+
+
+5 
+
+1*2*3*4*5 = 120
+
+
+5! = 120
+
+6! = 1*2*3*4*5*6=  720
+
+
+exercise: 
+
+write a program to calculate the factorial just by using loops without recursion

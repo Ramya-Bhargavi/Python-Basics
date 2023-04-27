@@ -1,0 +1,34 @@
+i=1
+ condition === true
+   i=1+1=2
+   if i===3  2==3 false so continue will not work
+   print 2
+
+i=2
+  condition === true
+  i=2+1 =3
+  if i===3  3==3 true, so continue will work
+  neglect this statemnet since continue is worling print 3
+
+i=3
+  i=3+1=4
+  if i==3 4==3 false so continue will not work
+  print(4)
+
+i=4
+  i=i+1 =4+1=5
+  if i==3 5==3 false so  continue will not work
+  print(5)
+
+i=5
+  conditn == true
+  i=5+1=6
+  if i==3 6==3 false so continue will not work
+  print(6)
+
+
+6<6  
+
+   condition === false
+   break the loop
+
